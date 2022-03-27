@@ -73,6 +73,7 @@
 "ANRI" = "豚鼠"<br>
 "ANRI (Lite)" = "豚鼠 轻"<br>
 "SOLARIA" = "太阳"<br>
+"SOLARIA (Lite)" = "太阳 轻"<br>
 
 "Synthesizer V Studio" = "五阶化合仪器"<br>
 "Synthesizer V Studio Pro" = "超五阶化合仪器"<br>
