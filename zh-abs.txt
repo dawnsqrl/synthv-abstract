@@ -743,6 +743,7 @@ language: 抽象中文
 "ANRI" = "豚鼠"
 "ANRI (Lite)" = "豚鼠 轻"
 "SOLARIA" = "太阳"
+"SOLARIA (Lite)" = "太阳 轻"
 
 "Synthesizer V Studio" = "五阶化合仪器"
 "Synthesizer V Studio Pro" = "超五阶化合仪器"
