@@ -24,8 +24,8 @@
 "Saki AI (Lite)" = "S 哎 轻"<br>
 "Qing Su" = "Q"<br>
 "Kevin" = "K"<br>
-"Ryo" = "R"<br>
 "Ryo AI" = "R 哎"<br>
+"Mo Chen" = "MO"<br>
 "Kotonoha Akane & Aoi" = "叶"<br>
 "Kotonoha Akane & Aoi (Lite)" = "叶 轻"<br>
 "AiKO" = "钢笔"<br>
@@ -85,15 +85,18 @@
 "Dreamtonics Co., Ltd." = "华侃如"<br>
 "Eclipsed Sounds" = "日蚀"<br>
 
-"Airy" = "气"<br>
-"Belt" = "带"<br>
+"Airy" = "轻"<br>
+"Belt" = "放"<br>
 "Bright" = "明"<br>
-"Chest" = "振"<br>
+"Chest" = "腔"<br>
 "Clear" = "透"<br>
 "Cool" = "酷"<br>
 "Dark" = "暗"<br>
 "Emotional" = "感"<br>
+"Nasal" = "息"<br>
+"Open" = "开"<br>
 "Power" = "力"<br>
+"Resonant" = "振"<br>
 "Soft" = "软"<br>
 "Solid" = "坚"<br>
 "Sweet" = "甜"<br>
