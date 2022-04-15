@@ -9,7 +9,7 @@
     "Installation path: \_" = "召唤路径： \_"<br>
     "activated" = "你竟然有激活码，好耶！"<br>
     "not activated" = "你怎么没有激活码？"<br>
-    "Data corrupted. Please reinstall or seek customer support." = "卒"<br>
+    "Data corrupted. Please reinstall or seek customer support." = "卒，救命"<br>
     "Updates available for version \_." = "发现等级 \_ 的进化。"<br>
     "This update requires the latest editor. Please update the editor first." = "这个进化需要最高级的仪器。请先进化仪器。"<br>
     "Update" = "进化"<br>
