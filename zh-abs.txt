@@ -351,7 +351,7 @@ language: 抽象中文
     "Installation path: _" = "召唤路径： _"
     "activated" = "你竟然有激活码，好耶！"
     "not activated" = "你怎么没有激活码？"
-    "Data corrupted. Please reinstall or seek customer support." = "卒"
+    "Data corrupted. Please reinstall or seek customer support." = "卒，救命"
     "Updates available for version _." = "发现等级 _ 的进化。"
     "This update requires the latest editor. Please update the editor first." = "这个进化需要最高级的仪器。请先进化仪器。"
     "Update" = "进化"
