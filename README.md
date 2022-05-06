@@ -26,6 +26,7 @@
 "Kevin" = "K"<br>
 "Ryo AI" = "R 哎"<br>
 "Mo Chen" = "MO"<br>
+"An Xiao" = "AN"<br>
 "Kotonoha Akane & Aoi" = "叶"<br>
 "Kotonoha Akane & Aoi (Lite)" = "叶 轻"<br>
 "AiKO" = "钢笔"<br>
