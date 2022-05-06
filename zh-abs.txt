@@ -696,6 +696,7 @@ language: 抽象中文
 "Kevin" = "K"
 "Ryo AI" = "R 哎"
 "Mo Chen" = "MO"
+"An Xiao" = "AN"
 "Kotonoha Akane & Aoi" = "叶"
 "Kotonoha Akane & Aoi (Lite)" = "叶 轻"
 "AiKO" = "钢笔"
