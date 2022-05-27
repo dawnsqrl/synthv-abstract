@@ -27,6 +27,7 @@
 "Ryo AI" = "R 哎"<br>
 "Mo Chen" = "MO"<br>
 "An Xiao" = "AN"<br>
+"Feng Yi" = "FE"<br>
 "Kotonoha Akane & Aoi" = "叶"<br>
 "Kotonoha Akane & Aoi (Lite)" = "叶 轻"<br>
 "AiKO" = "钢笔"<br>
@@ -96,6 +97,7 @@
 "Emotional" = "感"<br>
 "Nasal" = "息"<br>
 "Open" = "开"<br>
+"Opera" = "剧"<br>
 "Power" = "力"<br>
 "Resonant" = "振"<br>
 "Soft" = "软"<br>
