@@ -27,16 +27,16 @@
 
 | 原始文本 | 简体中文 | 抽象中文 |
 | - | - | - |
-| Synthesizer V Studio | – | 五阶化合仪器 |
-| Synthesizer V Studio Pro | – | 超五阶化合仪器 |
+| Synthesizer V Studio [Pro] | – | [超] 五阶化合仪器 |
 | Current database (track) | 当前声库 (音轨范围) | 是谁在唱歌？(音轨范围) |
 | No database loaded. | 没有安装声库。 | 没有谁在唱歌。 |
 | \_ (ver. \_) has been successfully installed. | 成功安装 \_ (ver. \_)。 | 成功召唤 \_ (进化等级 \_)。 |
 | Turn on Instant Mode to apply or edit the following settings. | 若要适用或编辑以下的设置，请启用即时音高模式。 | 若要指挥以下的参数，请进入即兴吟唱模式。 |
 | The current voice database does not support Auto Pitch Tuning. | 当前的歌声数据库不支持自动音高调校。 | 当前的声库不具有自主歌唱意识。 |
-| Prefer Speed | 偏好速度 | 加速 |
-| Prefer Quality | 偏好品质 | 变人 |
+| Prefer Speed \| Prefer Quality | 偏好速度｜偏好品质 | 加速｜变人 |
 | Script '\_' failed to load because it requires the latest Synthesizer V Studio to run. | 脚本 '\_' 加载失败，因为它需要最新的 Synthesizer V Studio 才能运行。 | 卷轴 '\_' 解译失败，因为它需要最高级的 五阶化合仪器 才能启动。 |
+| Discard unsaved changes? | 是否放弃未保存的改动？ | 未保存的改动将会永久消失！ (真的很久！) |
+| OK \| Cancel | 确定｜取消 | 决定！｜我点错了 |
 
 ### 『印象转化』
 
@@ -73,10 +73,10 @@
 | Paid product (\_). | 付费产品 (\_)。 | 付费，\_ |
 | activated | 已激活 | 你竟然有激活码，好耶！ |
 | not activated | 未激活 | 你怎么没有激活码？ |
-| Data corrupted. Please reinstall or seek customer support. | 数据损坏。请重安装或咨询客户服务。 | 卒，救命！ |
+| This activation code is being used on another device. | 该激活码已被另一台设备使用。 | 该激活码已在别处叫醒三次。 |
+| Data corrupted. Please reinstall or seek customer support. | 数据损坏。请重安装或咨询客户服务。 | 卒，救命！请重新召唤或向客服求救。 |
 | Update | 更新 | 进化 |
-| Activate | 激活 | 叫醒 |
-| Deactivate | 撤销激活 | 催眠 |
+| Activate \| Deactivate | 激活｜撤销激活 | 叫醒｜催眠 |
 | Uninstall | 卸载 | 丢掉 |
 
 ### 『过失责难』

@@ -351,7 +351,7 @@ language: 抽象中文
     "Installation path: _" = "召唤位置： _"
     "activated" = "你竟然有激活码，好耶！"
     "not activated" = "你怎么没有激活码？"
-    "Data corrupted. Please reinstall or seek customer support." = "卒，救命！"
+    "Data corrupted. Please reinstall or seek customer support." = "卒，救命！请重新召唤或向客服求救。"
     "Updates available for version _." = "发现等级 _ 的进化。"
     "This update requires the latest editor. Please update the editor first." = "这个进化需要最高级的仪器。请先进化仪器。"
     "Update" = "进化"
@@ -474,7 +474,7 @@ language: 抽象中文
   "A crashed session is found. View recovered files?" = "发现了非正常退出的使用记录，是否查看恢复的文件？"
 
 "Quit" = "退出"
-  "Discard unsaved changes?" = "是否放弃未保存的改动？"
+  "Discard unsaved changes?" = "未保存的改动将会永久消失！ (真的很久！)"
   "Discard" = "放弃改动"
 
 "Copy-Paste Preference" = "复制粘帖偏好"
