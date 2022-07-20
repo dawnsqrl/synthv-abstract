@@ -61,7 +61,7 @@
 | AUDIOLOGIE | – | 逻辑 |
 | Animen JP | – | 爱你们 |
 | Beijing Photek | – | 李哥 |
-| Dreamtonics Co., Ltd. | – | 华侃如 |
+| Dreamtonics Co., Ltd. | – | 梦游 |
 | Eclipsed Sounds | – | 日蚀 |
 
 ### 『意识激活』

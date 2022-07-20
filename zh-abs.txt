@@ -756,7 +756,7 @@ language: 抽象中文
 "AUDIOLOGIE" = "逻辑"
 "Animen JP" = "爱你们"
 "Beijing Photek" = "李哥"
-"Dreamtonics Co., Ltd." = "华侃如"
+"Dreamtonics Co., Ltd." = "梦游"
 "Eclipsed Sounds" = "日蚀"
 
 "Airy" = "空" | 空灵 / 通透
