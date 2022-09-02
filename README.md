@@ -71,9 +71,9 @@
 | No product selected. | 没有选择产品。 | 还什么都没选啊。 |
 | Free product. | 免费产品。 | 免费，好耶！ |
 | Paid product (\_). | 付费产品 (\_)。 | 付费，\_ |
-| activated | 已激活 | 你竟然有激活码，好耶！ |
-| not activated | 未激活 | 你怎么没有激活码？ |
-| This activation code is being used on another device. | 该激活码已被另一台设备使用。 | 该激活码已在别处叫醒三次。 |
+| activated | 已激活 | 你竟然叫醒了，好耶！ |
+| not activated | 未激活 | 你怎么不叫醒？ |
+| This activation code is being used on another device. | 该激活码已被另一台设备使用。 | 该咒语已在别处叫醒三次。 |
 | Data corrupted. Please reinstall or seek customer support. | 数据损坏。请重安装或咨询客户服务。 | 卒，救命！请重新召唤或向客服求救。 |
 | Update | 更新 | 进化 |
 | Activate \| Deactivate | 激活｜撤销激活 | 叫醒｜催眠 |
@@ -120,8 +120,3 @@
 > 还什么都没选啊。
 >
 > 没有谁在唱歌。
-
-<br>
-
-重复，**请注意！**
-在正式场合引用相关称谓或概念时，**请以Synthesizer V Studio自带的官方中文翻译为准，或保持其原有的未翻译状态。**
